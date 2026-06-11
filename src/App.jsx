@@ -47,6 +47,7 @@ export default function App() {
 
       <footer className="footer">
         {known}/{QUESTIONS.length} выучено · прогресс сохраняется локально в браузере
+        <div className="team-label">© буль буль продакшн · © acided</div>
       </footer>
     </div>
   );
